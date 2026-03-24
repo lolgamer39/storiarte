@@ -1,0 +1,338 @@
+[
+  {
+    "numero_opera": "1",
+    "numero_pagina": "2, 9, 10",
+    "nome_opera": "Adorazione dei Magi (La pala per Palla Strozzi) [cite: 32]",
+    "artista": "Gentile da Fabriano [cite: 22, 29]",
+    "periodo": "1423 [cite: 31]",
+    "luogo_di_esposizione": "Firenze [cite: 30]"
+  },
+  {
+    "numero_opera": "2",
+    "numero_pagina": "3",
+    "nome_opera": "Très Riches Heures du Duc de Berry (raffigurazione del mese di aprile) [cite: 14, 15, 17]",
+    "artista": "Fratelli de Limbourg (Herman, Paul, Johan) [cite: 13]",
+    "periodo": "1412-1416 [cite: 16]",
+    "luogo_di_esposizione": "Arte di corte [cite: 12]"
+  },
+  {
+    "numero_opera": "3",
+    "numero_pagina": "4",
+    "nome_opera": "Duomo di Milano e Ritratto di Gian Galeazzo Visconti [cite: 18]",
+    "artista": "Non specificato [cite: 18]",
+    "periodo": "Post 1397 (Duomo), morte del Duca 1402 [cite: 18]",
+    "luogo_di_esposizione": "Milano [cite: 18]"
+  },
+  {
+    "numero_opera": "4",
+    "numero_pagina": "5",
+    "nome_opera": "Miniatura dell'Elogio funebre di Gian Galeazzo Visconti di Pietro da Castelletto [cite: 20, 21]",
+    "artista": "Michelino da Besozzo [cite: 20]",
+    "periodo": "1403 [cite: 20]",
+    "luogo_di_esposizione": "Ouvraige de Lombardie [cite: 19]"
+  },
+  {
+    "numero_opera": "5",
+    "numero_pagina": "6, 7",
+    "nome_opera": "Polittico di Valle Romita [cite: 23]",
+    "artista": "Gentile da Fabriano [cite: 22]",
+    "periodo": "Tra il 1370 (post) e il 1427 [cite: 23]",
+    "luogo_di_esposizione": "Non specificato [cite: 23]"
+  },
+  {
+    "numero_opera": "6",
+    "numero_pagina": "8",
+    "nome_opera": "Madonna della quaglia [cite: 26]",
+    "artista": "Pisanello [cite: 25]",
+    "periodo": "Gotico internazionale [cite: 27]",
+    "luogo_di_esposizione": "Veneto [cite: 25]"
+  },
+  {
+    "numero_opera": "7",
+    "numero_pagina": "11",
+    "nome_opera": "Affreschi [cite: 35]",
+    "artista": "Gentile e Pisanello [cite: 35]",
+    "periodo": "1427 (Gentile) e 1431-32 (Pisanello) [cite: 35]",
+    "luogo_di_esposizione": "San Giovanni in Laterano a Roma [cite: 34]"
+  },
+  {
+    "numero_opera": "8",
+    "numero_pagina": "12, 13",
+    "nome_opera": "San Giorgio [cite: 39]",
+    "artista": "Pisanello [cite: 38]",
+    "periodo": "1438 circa [cite: 36]",
+    "luogo_di_esposizione": "Cappella Pellegrini in Sant'Anastasia, Verona [cite: 36, 37]"
+  },
+  {
+    "numero_opera": "9",
+    "numero_pagina": "14",
+    "nome_opera": "Ritratti e medaglie (Leonello d'Este, Giovanni VIII Paleologo) [cite: 41, 45, 47]",
+    "artista": "Pisanello [cite: 49]",
+    "periodo": "1438 e 1441 [cite: 47]",
+    "luogo_di_esposizione": "Ferrara [cite: 47]"
+  },
+  {
+    "numero_opera": "10",
+    "numero_pagina": "15, 16, 17",
+    "nome_opera": "Monumento funebre di Ilaria del Carretto [cite: 54]",
+    "artista": "Jacopo della Quercia [cite: 50]",
+    "periodo": "1403-1408 [cite: 51]",
+    "luogo_di_esposizione": "Lucca [cite: 51]"
+  },
+  {
+    "numero_opera": "11",
+    "numero_pagina": "18",
+    "nome_opera": "La Fonte Gaia [cite: 58]",
+    "artista": "Jacopo della Quercia [cite: 50, 58]",
+    "periodo": "1408-1419 [cite: 58]",
+    "luogo_di_esposizione": "Piazza del Campo a Siena [cite: 58]"
+  },
+  {
+    "numero_opera": "12",
+    "numero_pagina": "19, 20, 21",
+    "nome_opera": "Sculture del portale [cite: 61]",
+    "artista": "Jacopo della Quercia [cite: 62]",
+    "periodo": "1425-1428 [cite: 61]",
+    "luogo_di_esposizione": "San Petronio, Bologna [cite: 61]"
+  },
+  {
+    "numero_opera": "13",
+    "numero_pagina": "23, 24",
+    "nome_opera": "Concorso per la porta del Battistero di Firenze [cite: 65]",
+    "artista": "Ghiberti VS Brunelleschi [cite: 66, 67, 68]",
+    "periodo": "1401 [cite: 64]",
+    "luogo_di_esposizione": "Battistero di Firenze [cite: 65]"
+  },
+  {
+    "numero_opera": "14",
+    "numero_pagina": "25, 26, 27, 28",
+    "nome_opera": "Porta Nord (seconda porta) [cite: 71, 72, 79, 80]",
+    "artista": "Lorenzo Ghiberti [cite: 92]",
+    "periodo": "1403-1424 [cite: 80, 92]",
+    "luogo_di_esposizione": "Museo dell'Opera del Duomo, Firenze [cite: 89, 90]"
+  },
+  {
+    "numero_opera": "15",
+    "numero_pagina": "29, 30",
+    "nome_opera": "Statue per le nicchie delle Arti (San Giovanni Battista, San Marco, San Giorgio, ecc.) [cite: 99, 100]",
+    "artista": "Donatello, Ghiberti, Nanni di Banco, Niccolò Lamberti, Verrocchio, Baccio da Montelupo, Giambologna [cite: 100, 101, 102, 103]",
+    "periodo": "1416 (San Giovanni Battista) [cite: 99]",
+    "luogo_di_esposizione": "Chiesa di Orsanmichele, Firenze [cite: 97, 104]"
+  },
+  {
+    "numero_opera": "16",
+    "numero_pagina": "31, 32",
+    "nome_opera": "Altare di San Jacopo [cite: 123]",
+    "artista": "Filippo Brunelleschi [cite: 123]",
+    "periodo": "Non specificato [cite: 123]",
+    "luogo_di_esposizione": "Pistoia [cite: 123]"
+  },
+  {
+    "numero_opera": "17",
+    "numero_pagina": "33, 34, 35",
+    "nome_opera": "Crocifissi lignei [cite: 127, 128]",
+    "artista": "Donatello e Filippo Brunelleschi [cite: 127, 128]",
+    "periodo": "Non specificato [cite: 127, 128]",
+    "luogo_di_esposizione": "Santa Croce e Santa Maria Novella [cite: 127, 128]"
+  },
+  {
+    "numero_opera": "18",
+    "numero_pagina": "37, 38, 39",
+    "nome_opera": "Facciata del Duomo di Firenze [cite: 131, 132]",
+    "artista": "Bernardo Buontalenti (smantellamento), Emilio De Fabris (rifacimento) [cite: 131, 132]",
+    "periodo": "1587 (smantellamento), 1870-1887 (rifacimento) [cite: 131, 132]",
+    "luogo_di_esposizione": "Firenze [cite: 131]"
+  },
+  {
+    "numero_opera": "19",
+    "numero_pagina": "43, 44, 45",
+    "nome_opera": "Cupola del Duomo di Firenze [cite: 135]",
+    "artista": "Filippo Brunelleschi [cite: 135]",
+    "periodo": "Citata nel 1436 [cite: 135]",
+    "luogo_di_esposizione": "Firenze [cite: 135]"
+  },
+  {
+    "numero_opera": "20",
+    "numero_pagina": "48",
+    "nome_opera": "San Ludovico [cite: 100]",
+    "artista": "Donatello [cite: 100]",
+    "periodo": "Non specificato [cite: 100]",
+    "luogo_di_esposizione": "Santa Croce (originariamente Orsanmichele) [cite: 100]"
+  },
+  {
+    "numero_opera": "21",
+    "numero_pagina": "49, 50, 51",
+    "nome_opera": "Il Convito di Erode e Battesimo di Cristo [cite: 190, 194]",
+    "artista": "Donatello, Lorenzo Ghiberti, Jacopo della Quercia [cite: 190, 191, 193]",
+    "periodo": "1417-1430 (Convito 1423-1427) [cite: 190, 192]",
+    "luogo_di_esposizione": "Fonte battesimale di Siena [cite: 190, 196]"
+  },
+  {
+    "numero_opera": "22",
+    "numero_pagina": "52, 53, 54, 55",
+    "nome_opera": "Porta Est o del Paradiso [cite: 197]",
+    "artista": "Lorenzo Ghiberti [cite: 198]",
+    "periodo": "1425-1452 [cite: 197]",
+    "luogo_di_esposizione": "Battistero di Firenze [cite: 197, 198]"
+  }
+  {
+    "numero_opera": "23",
+    "numero_pagina": "1, 2, 3",
+    "nome_opera": "La Sagra del Carmine (copia di Michelangelo) [cite: 216, 219]",
+    "artista": "Masaccio [cite: 215] (copia di Michelangelo [cite: 219])",
+    "periodo": "1422 circa",
+    "luogo_di_esposizione": "Albertina, Vienna (per il disegno di Michelangelo) [cite: 219]"
+  },
+  {
+    "numero_opera": "24",
+    "numero_pagina": "5",
+    "nome_opera": "Adorazione dei Magi",
+    "artista": "Gentile da Fabriano [cite: 227]",
+    "periodo": "1423 [cite: 228]",
+    "luogo_di_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_opera": "25",
+    "numero_pagina": "6, 7, 9",
+    "nome_opera": "Sant'Anna Metterza",
+    "artista": "Masolino e Masaccio [cite: 227, 230, 231]",
+    "periodo": "1424 circa [cite: 232]",
+    "luogo_di_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_opera": "26",
+    "numero_pagina": "10, 11, 12, 13, 14, 15, 16, 17, 18, 24, 27",
+    "nome_opera": "Affreschi della Cappella Brancacci (es. Pagamento del Tributo, Cacciata dei Progenitori) [cite: 236, 270, 304]",
+    "artista": "Masolino, Masaccio e Filippino Lippi [cite: 233, 236, 263]",
+    "periodo": "1424-1428",
+    "luogo_di_esposizione": "Chiesa di Santa Maria del Carmine, Firenze [cite: 304, 305]"
+  },
+  {
+    "numero_opera": "27",
+    "numero_pagina": "19",
+    "nome_opera": "Polittico Quaratesi (dettaglio della Madonna col Bambino)",
+    "artista": "Gentile da Fabriano ",
+    "periodo": "1425 ",
+    "luogo_di_esposizione": "Collezioni della Corona Britannica (Hampton Court)"
+  },
+  {
+    "numero_opera": "28",
+    "numero_pagina": "19, 20, 21",
+    "nome_opera": "Polittico di Pisa / Cuspide di Pisa [cite: 323, 327]",
+    "artista": "Masaccio ",
+    "periodo": "1426 [cite: 324]",
+    "luogo_di_esposizione": "Museo di Capodimonte, Napoli  / National Gallery, Londra"
+  },
+  {
+    "numero_opera": "29",
+    "numero_pagina": "21, 22",
+    "nome_opera": "Trinità ",
+    "artista": "Masaccio",
+    "periodo": "1426-1428",
+    "luogo_di_esposizione": "Santa Maria Novella, Firenze "
+  },
+  {
+    "numero_opera": "30",
+    "numero_pagina": "46",
+    "nome_opera": "Pulpito di Prato [cite: 396]",
+    "artista": "Donatello & Michelozzo [cite: 394]",
+    "periodo": "1428-1438 [cite: 396]",
+    "luogo_di_esposizione": "Duomo di Prato [cite: 396]"
+  },
+  {
+    "numero_opera": "31",
+    "numero_pagina": "40, 41, 42, 43",
+    "nome_opera": "Cantorie per il Duomo [cite: 378]",
+    "artista": "Luca della Robbia [cite: 379] e Donatello [cite: 380]",
+    "periodo": "1431-1439 [cite: 380]",
+    "luogo_di_esposizione": "Museo dell'Opera del Duomo, Firenze [cite: 378]"
+  },
+  {
+    "numero_opera": "32",
+    "numero_pagina": "25",
+    "nome_opera": "Croce dipinta [cite: 334]",
+    "artista": "Stefano di Giovanni detto il Sassetta [cite: 331, 332]",
+    "periodo": "1433 [cite: 333]",
+    "luogo_di_esposizione": "Museo di Capodimonte, Napoli (o sparsi in base ai frammenti)"
+  },
+  {
+    "numero_opera": "33",
+    "numero_pagina": "23",
+    "nome_opera": "Affreschi del Battistero di Castiglione Olona",
+    "artista": "Masolino ",
+    "periodo": "1435 circa ",
+    "luogo_di_esposizione": "Castiglione Olona, Varese "
+  },
+  {
+    "numero_opera": "34",
+    "numero_pagina": "31",
+    "nome_opera": "Monumento equestre a Giovanni Acuto ",
+    "artista": "Paolo Uccello ",
+    "periodo": "1436 ",
+    "luogo_di_esposizione": "Santa Maria del Fiore, Firenze "
+  },
+  {
+    "numero_opera": "35",
+    "numero_pagina": "36, 37, 38",
+    "nome_opera": "Madonna di Tarquinia",
+    "artista": "Filippo Lippi ",
+    "periodo": "1437",
+    "luogo_di_esposizione": "Galleria Nazionale d'Arte Antica di Palazzo Barberini, Roma"
+  },
+  {
+    "numero_opera": "36",
+    "numero_pagina": "33, 34, 35",
+    "nome_opera": "Battaglia di San Romano [cite: 358]",
+    "artista": "Paolo Uccello [cite: 359]",
+    "periodo": "1438 circa [cite: 360]",
+    "luogo_di_esposizione": "National Gallery (Londra) [cite: 361], Galleria degli Uffizi (Firenze) [cite: 363], Musée du Louvre (Parigi) [cite: 366]"
+  },
+  {
+    "numero_opera": "37",
+    "numero_pagina": "28, 29, 30",
+    "nome_opera": "Pala di San Marco e Affreschi (es. Annunciazione) [cite: 340, 346]",
+    "artista": "Beato Angelico [cite: 346]",
+    "periodo": "1440 circa [cite: 340]",
+    "luogo_di_esposizione": "San Marco, Firenze [cite: 341]"
+  },
+  {
+    "numero_opera": "38",
+    "numero_pagina": "45",
+    "nome_opera": "David",
+    "artista": "Donatello ",
+    "periodo": "1440 circa",
+    "luogo_di_esposizione": "Museo Nazionale del Bargello, Firenze"
+  },
+  {
+    "numero_opera": "39",
+    "numero_pagina": "49",
+    "nome_opera": "Tabernacolo di Sant'Egidio ",
+    "artista": "Luca della Robbia ",
+    "periodo": "1441-1443 ",
+    "luogo_di_esposizione": "Ospedale di Santa Maria Nuova, Firenze"
+  },
+  {
+    "numero_opera": "40",
+    "numero_pagina": "52",
+    "nome_opera": "Resurrezione per Santa Maria del Fiore ",
+    "artista": "Luca della Robbia ",
+    "periodo": "1442-1444 ",
+    "luogo_di_esposizione": "Santa Maria del Fiore, Firenze "
+  },
+  {
+    "numero_opera": "41",
+    "numero_pagina": "50, 51",
+    "nome_opera": "Cappella Pazzi (Tondi e architettura) ",
+    "artista": "Brunelleschi & Della Robbia ",
+    "periodo": "1440-1460 circa",
+    "luogo_di_esposizione": "Santa Croce, Firenze "
+  },
+  {
+    "numero_opera": "42",
+    "numero_pagina": "32",
+    "nome_opera": "Monumento equestre a Niccolò da Tolentino ",
+    "artista": "Andrea del Castagno ",
+    "periodo": "1456 ",
+    "luogo_di_esposizione": "Santa Maria del Fiore, Firenze"
+  }
+]
