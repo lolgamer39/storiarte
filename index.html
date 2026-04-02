@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Opere d'Arte</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            background-color: var(--card-bg);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #1e293b;
+            margin-top: 0;
+        }
+        .image-container {
+            width: 100%;
+            height: 400px;
+            background-color: #e2e8f0;
+            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+        .info-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .info-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #f1f5f9;
+            border-radius: 6px;
+        }
+        .label {
+            font-weight: bold;
+            flex: 1;
+        }
+        .value {
+            flex: 2;
+            text-align: center;
+            display: none; /* Nascosto di default */
+            font-weight: 500;
+        }
+        .reveal-btn {
+            background-color: #cbd5e1;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+        .reveal-btn:hover {
+            background-color: #94a3b8;
+        }
+        .random-btn {
+            width: 100%;
+            padding: 15px;
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .random-btn:hover {
+            background-color: #1d4ed8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Flashcards d'Arte 🎨</h1>
+        
+        <div class="image-container">
+            <img id="artwork-image" src="" alt="Caricamento immagine...">
+        </div>
+
+        <div class="info-grid">
+            <div class="info-row">
+                <span class="label">Nome Opera:</span>
+                <span id="text-nome_opera" class="value"></span>
+                <button id="btn-nome_opera" class="reveal-btn" onclick="svelaDato('nome_opera')">Svela</button>
+            </div>
+            <div class="info-row">
+                <span class="label">Artista:</span>
+                <span id="text-nome_artista" class="value"></span>
+                <button id="btn-nome_artista" class="reveal-btn" onclick="svelaDato('nome_artista')">Svela</button>
+            </div>
+            <div class="info-row">
+                <span class="label">Anno:</span>
+                <span id="text-anno_opera" class="value"></span>
+                <button id="btn-anno_opera" class="reveal-btn" onclick="svelaDato('anno_opera')">Svela</button>
+            </div>
+            <div class="info-row">
+                <span class="label">Corrente:</span>
+                <span id="text-corrente" class="value"></span>
+                <button id="btn-corrente" class="reveal-btn" onclick="svelaDato('corrente')">Svela</button>
+            </div>
+            <div class="info-row">
+                <span class="label">Luogo:</span>
+                <span id="text-luogo_esposizione" class="value"></span>
+                <button id="btn-luogo_esposizione" class="reveal-btn" onclick="svelaDato('luogo_esposizione')">Svela</button>
+            </div>
+        </div>
+
+        <button class="random-btn" onclick="caricaImmagineCasuale()">Genera Immagine Casuale 🎲</button>
+    </div>
+
+    <script>
+        let opere = [];
+        const campi = ['nome_opera', 'nome_artista', 'anno_opera', 'corrente', 'luogo_esposizione'];
+
+        // Carica i dati dal file JSON all'avvio
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                opere = data;
+                caricaImmagineCasuale(); // Carica la prima immagine casuale
+            })
+            .catch(error => console.error('Errore nel caricamento del JSON:', error));
+
+        function caricaImmagineCasuale() {
+            if (opere.length === 0) return;
+
+            // Genera un indice casuale basato sulla lunghezza dell'array
+            const indiceCasuale = Math.floor(Math.random() * opere.length);
+            const operaCorrente = opere[indiceCasuale];
+
+            // Aggiorna l'immagine (assicurati che l'estensione sia corretta, qui è .png)
+            document.getElementById('artwork-image').src = `images/${operaCorrente.numero_immagine}.png`;
+
+            // Resetta i campi: nasconde i testi, mostra i pulsanti "Svela" e inserisce i nuovi dati
+            campi.forEach(campo => {
+                const testoSpan = document.getElementById(`text-${campo}`);
+                const bottoneSvela = document.getElementById(`btn-${campo}`);
+                
+                testoSpan.textContent = operaCorrente[campo]; // Inserisce il dato aggiornato
+                testoSpan.style.display = 'none';             // Nasconde il testo
+                bottoneSvela.style.display = 'block';         // Mostra il pulsante
+            });
+        }
+
+        // Funzione per svelare il singolo dato
+        function svelaDato(campo) {
+            document.getElementById(`text-${campo}`).style.display = 'block';
+            document.getElementById(`btn-${campo}`).style.display = 'none';
+        }
+    </script>
+</body>
+</html>
