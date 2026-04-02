@@ -1,1 +1,482 @@
-
+[
+  {
+    "numero_immagine": 1,
+    "nome_opera": "Adorazione dei Magi (Dettaglio del corteo)",
+    "nome_artista": "Gentile da Fabriano",
+    "anno_opera": "1423",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 2,
+    "nome_opera": "Mese di Aprile (da Les Très Riches Heures du Duc de Berry)",
+    "nome_artista": "Fratelli Limbourg",
+    "anno_opera": "1412-1416",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Musée Condé, Chantilly"
+  },
+  {
+    "numero_immagine": 3,
+    "nome_opera": "Duomo di Milano (Esterno dell'abside e finestrone)",
+    "nome_artista": "Vari maestri campionesi e internazionali",
+    "anno_opera": "Iniziato nel 1386",
+    "corrente": "Gotico Internazionale / Architettura Gotica",
+    "luogo_esposizione": "Piazza del Duomo, Milano"
+  },
+  {
+    "numero_immagine": 4,
+    "nome_opera": "Ritratto di Filippo Maria Visconti (Disegno)",
+    "nome_artista": "Pisanello",
+    "anno_opera": "1440-1441 circa",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Musée du Louvre (Cabinet des Dessins), Parigi"
+  },
+  {
+    "numero_immagine": 5,
+    "nome_opera": "Facciata del Duomo di Orvieto",
+    "nome_artista": "Lorenzo Maitani (e altri)",
+    "anno_opera": "Iniziata nel 1310",
+    "corrente": "Gotico Italiano",
+    "luogo_esposizione": "Piazza del Duomo, Orvieto"
+  },
+  {
+    "numero_immagine": 6,
+    "nome_opera": "Adorazione dei Magi (dal Libro d'Ore di Gian Galeazzo Visconti)",
+    "nome_artista": "Belbello da Pavia / Giovannino de' Grassi",
+    "anno_opera": "1390-1428 circa",
+    "corrente": "Gotico Internazionale / Miniatura",
+    "luogo_esposizione": "Biblioteca Nazionale Centrale, Firenze"
+  },
+  {
+    "numero_immagine": 7,
+    "nome_opera": "Polittico di Valle Romita",
+    "nome_artista": "Gentile da Fabriano",
+    "anno_opera": "1410-1412 circa",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Pinacoteca di Brera, Milano"
+  },
+  {
+    "numero_immagine": 8,
+    "nome_opera": "Madonna della Quaglia",
+    "nome_artista": "Pisanello",
+    "anno_opera": "1420 circa",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Museo di Castelvecchio, Verona"
+  },
+  {
+    "numero_immagine": 9,
+    "nome_opera": "Adorazione dei Magi (Pala Strozzi)",
+    "nome_artista": "Gentile da Fabriano",
+    "anno_opera": "1423",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 10,
+    "nome_opera": "Confronto: Cacciata dal Paradiso e Dettagli della Pala Strozzi",
+    "nome_artista": "Giovanni di Paolo / Gentile da Fabriano",
+    "anno_opera": "1445 (Cacciata) / 1423 (Pala Strozzi)",
+    "corrente": "Primo Rinascimento / Gotico Internazionale",
+    "luogo_esposizione": "Metropolitan Museum, NY / Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 11,
+    "nome_opera": "Interno della Basilica di San Giovanni in Laterano",
+    "nome_artista": "Francesco Borromini (rifacimento) / Sito degli affreschi perduti di Gentile e Pisanello",
+    "anno_opera": "Navata attuale: 1646-1650",
+    "corrente": "Barocco (con preesistenze e storia Gotico/Rinascimentale)",
+    "luogo_esposizione": "Roma"
+  },
+  {
+    "numero_immagine": 12,
+    "nome_opera": "San Giorgio e la Principessa (Dettaglio di cavalli e impiccati)",
+    "nome_artista": "Pisanello",
+    "anno_opera": "1433-1438",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Chiesa di Sant'Anastasia, Verona"
+  },
+  {
+    "numero_immagine": 13,
+    "nome_opera": "Ritratto di Leonello d'Este",
+    "nome_artista": "Pisanello",
+    "anno_opera": "1441",
+    "corrente": "Gotico Internazionale / Primo Rinascimento",
+    "luogo_esposizione": "Accademia Carrara, Bergamo"
+  },
+  {
+    "numero_immagine": 14,
+    "nome_opera": "Monumento funebre a Ilaria del Carretto",
+    "nome_artista": "Jacopo della Quercia",
+    "anno_opera": "1406-1408",
+    "corrente": "Transizione Gotico-Rinascimento",
+    "luogo_esposizione": "Cattedrale di San Martino, Lucca"
+  },
+  {
+    "numero_immagine": 15,
+    "nome_opera": "Acca Larentia e Rea Silvia (Sculture della Fonte Gaia)",
+    "nome_artista": "Jacopo della Quercia",
+    "anno_opera": "1414-1419",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Complesso di Santa Maria della Scala, Siena"
+  },
+  {
+    "numero_immagine": 16,
+    "nome_opera": "Luoghi di Jacopo: Basilica di S. Petronio (BO), Fonte Gaia (SI), Fonte Battesimale (SI)",
+    "nome_artista": "Jacopo della Quercia (e altri maestri)",
+    "anno_opera": "Prima metà del XV Secolo",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Bologna e Siena"
+  },
+  {
+    "numero_immagine": 17,
+    "nome_opera": "Porta Magna e formelle dei Profeti",
+    "nome_artista": "Jacopo della Quercia",
+    "anno_opera": "1425-1434",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Petronio, Bologna"
+  },
+  {
+    "numero_immagine": 18,
+    "nome_opera": "Concorso del 1401: Sacrificio di Isacco",
+    "nome_artista": "Filippo Brunelleschi (sinistra) / Lorenzo Ghiberti (destra)",
+    "anno_opera": "1401",
+    "corrente": "Transizione Gotico-Rinascimento",
+    "luogo_esposizione": "Museo Nazionale del Bargello, Firenze"
+  },
+  {
+    "numero_immagine": 19,
+    "nome_opera": "Battistero di San Giovanni",
+    "nome_artista": "Vari (Architettura romanica fiorentina)",
+    "anno_opera": "XI-XIII secolo (struttura principale)",
+    "corrente": "Romanico Fiorentino",
+    "luogo_esposizione": "Piazza del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 20,
+    "nome_opera": "Le tre porte del Battistero (Sud, Nord, Est o del Paradiso)",
+    "nome_artista": "Andrea Pisano (Sud) / Lorenzo Ghiberti (Nord ed Est)",
+    "anno_opera": "1330 (Sud) / 1403-1424 (Nord) / 1425-1452 (Est)",
+    "corrente": "Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+{
+    "numero_immagine": 21,
+    "nome_opera": "Adorazione dei Magi (Porta Nord del Battistero)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1403-1424",
+    "corrente": "Transizione Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 22,
+    "nome_opera": "Annunciazione (Porta Nord del Battistero)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1403-1424",
+    "corrente": "Transizione Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 23,
+    "nome_opera": "San Giovanni Battista",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1412-1416",
+    "corrente": "Transizione Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Museo di Orsanmichele (copia all'esterno), Firenze"
+  },
+  {
+    "numero_immagine": 24,
+    "nome_opera": "Chiesa e Museo di Orsanmichele",
+    "nome_artista": "Vari (Francesco Talenti, Neri di Fioravante, ecc.)",
+    "anno_opera": "Dal 1337",
+    "corrente": "Architettura Gotica / Scultura Rinascimentale",
+    "luogo_esposizione": "Firenze"
+  },
+  {
+    "numero_immagine": 25,
+    "nome_opera": "Confronto Crocifissi: Donatello (sinistra) e Brunelleschi (destra)",
+    "nome_artista": "Donatello / Filippo Brunelleschi",
+    "anno_opera": "1406-1408 (Donatello) / 1410-1415 (Brunelleschi)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Santa Croce / Santa Maria Novella, Firenze"
+  },
+  {
+    "numero_immagine": 26,
+    "nome_opera": "Facciata di Santa Maria del Fiore (Duomo di Firenze)",
+    "nome_artista": "Emilio De Fabris (facciata) / Arnolfo di Cambio (progetto)",
+    "anno_opera": "1296 (inizio) / 1871-1887 (facciata attuale)",
+    "corrente": "Gotico / Neogotico",
+    "luogo_esposizione": "Piazza del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 27,
+    "nome_opera": "Ricostruzione dell'antica facciata di Arnolfo di Cambio",
+    "nome_artista": "Arnolfo di Cambio (sculture originali)",
+    "anno_opera": "Iniziata nel 1296 (allestimento museale contemporaneo)",
+    "corrente": "Gotico / Scenografia Museale",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 28,
+    "nome_opera": "San Giorgio",
+    "nome_artista": "Donatello",
+    "anno_opera": "1415-1417",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo Nazionale del Bargello, Firenze"
+  },
+  {
+    "numero_immagine": 29,
+    "nome_opera": "Cupola di Santa Maria del Fiore",
+    "nome_artista": "Filippo Brunelleschi",
+    "anno_opera": "1420-1436",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Duomo di Firenze"
+  },
+  {
+    "numero_immagine": 30,
+    "nome_opera": "Spedale degli Innocenti e Interno di San Lorenzo",
+    "nome_artista": "Filippo Brunelleschi",
+    "anno_opera": "1419-1445 (Spedale) / 1421-1470 (San Lorenzo)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Firenze"
+  },
+  {
+    "numero_immagine": 31,
+    "nome_opera": "San Ludovico di Tolosa",
+    "nome_artista": "Donatello",
+    "anno_opera": "1422-1425",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo di Santa Croce, Firenze"
+  },
+  {
+    "numero_immagine": 32,
+    "nome_opera": "Banchetto di Erode e Fonte Battesimale",
+    "nome_artista": "Donatello (rilievo) / Vari (fonte)",
+    "anno_opera": "1423-1427 (rilievo)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Battistero di San Giovanni, Siena"
+  },
+  {
+    "numero_immagine": 33,
+    "nome_opera": "Confronto Battesimo di Cristo: Firenze vs Siena",
+    "nome_artista": "Andrea Pisano (sinistra) / Lorenzo Ghiberti (destra)",
+    "anno_opera": "1330 (Pisano) / 1427 (Ghiberti)",
+    "corrente": "Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Battistero di Firenze / Battistero di Siena"
+  },
+  {
+    "numero_immagine": 34,
+    "nome_opera": "Porta del Paradiso (Porta Est del Battistero)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1425-1452",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 35,
+    "nome_opera": "Storie di Adamo ed Eva (Porta del Paradiso)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1425-1452",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 36,
+    "nome_opera": "Incontro tra Salomone e la Regina di Saba (Porta del Paradiso)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1425-1452",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 37,
+    "nome_opera": "Storie di Giuseppe (Porta del Paradiso)",
+    "nome_artista": "Lorenzo Ghiberti",
+    "anno_opera": "1425-1452",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 38,
+    "nome_opera": "San Pietro (dal Pagamento del Tributo) e Studio a disegno",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1424-1428",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cappella Brancacci, Santa Maria del Carmine, Firenze"
+  },
+  {
+    "numero_immagine": 39,
+    "nome_opera": "Esterno della Basilica di Santa Maria del Carmine",
+    "nome_artista": "Architettura carmelitana (facciata incompiuta)",
+    "anno_opera": "Fondata nel 1268",
+    "corrente": "Romanico / Rinascimento",
+    "luogo_esposizione": "Piazza del Carmine, Firenze"
+  },
+  {
+    "numero_immagine": 40,
+    "nome_opera": "Adorazione dei Magi (Pala Strozzi)",
+    "nome_artista": "Gentile da Fabriano",
+    "anno_opera": "1423",
+    "corrente": "Gotico Internazionale",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 41,
+    "nome_opera": "Confronto: Trittico di San Giovenale e Sant'Anna Metterza",
+    "nome_artista": "Masaccio (sinistra) / Masolino e Masaccio (destra)",
+    "anno_opera": "1422 / 1424-1425",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo Masaccio, Reggello / Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 42,
+    "nome_opera": "Confronto volumetrico: Scultura di Donatello e Pittura di Masaccio",
+    "nome_artista": "Donatello (o cerchia) / Masaccio (dettaglio Sant'Anna Metterza)",
+    "anno_opera": "Anni '20 del '400",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Vari / Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 43,
+    "nome_opera": "Cappella Brancacci (Veduta d'insieme)",
+    "nome_artista": "Masolino, Masaccio, Filippino Lippi",
+    "anno_opera": "1424-1428 (prima fase) / 1481-1483 (completamento)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Chiesa di Santa Maria del Carmine, Firenze"
+  },
+  {
+    "numero_immagine": 44,
+    "nome_opera": "Confronto sul nudo: Donatello, Masolino, Masaccio, Ghiberti",
+    "nome_artista": "Vari (Crocifisso S.Croce, Peccato Originale, Cacciata, Porta Paradiso)",
+    "anno_opera": "Primo ventennio del '400",
+    "corrente": "Primo Rinascimento / Gotico (Masolino)",
+    "luogo_esposizione": "Firenze"
+  },
+  {
+    "numero_immagine": 45,
+    "nome_opera": "Il Pagamento del Tributo",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1424-1428",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cappella Brancacci, Firenze"
+  },
+  {
+    "numero_immagine": 46,
+    "nome_opera": "Dettagli: Tributo (Pietro e gabelliere) e San Pietro guarisce con l'ombra",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1424-1428",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cappella Brancacci, Firenze"
+  },
+  {
+    "numero_immagine": 47,
+    "nome_opera": "Guarigione dello storpio e Resurrezione di Tabita",
+    "nome_artista": "Masolino (con interventi di Masaccio)",
+    "anno_opera": "1424-1425",
+    "corrente": "Transizione Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Cappella Brancacci, Firenze"
+  },
+  {
+    "numero_immagine": 48,
+    "nome_opera": "Battesimo dei neofiti e San Pietro in cattedra (dettaglio confratelli)",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1424-1428",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cappella Brancacci, Firenze"
+  },
+  {
+    "numero_immagine": 49,
+    "nome_opera": "Confronto Madonne: Polittico di Pisa e Polittico Quaratesi",
+    "nome_artista": "Masaccio (sinistra) / Gentile da Fabriano (destra)",
+    "anno_opera": "1426 / 1425",
+    "corrente": "Primo Rinascimento / Gotico Internazionale",
+    "luogo_esposizione": "National Gallery, Londra / Royal Collection, UK"
+  },
+  {
+    "numero_immagine": 50,
+    "nome_opera": "Predella del Polittico di Pisa (Adorazione dei Magi e Martirii)",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1426",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Staatliche Museen, Berlino"
+  },
+  {
+    "numero_immagine": 51,
+    "nome_opera": "La Trinità",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1425-1427",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di Santa Maria Novella, Firenze"
+  },
+  {
+    "numero_immagine": 52,
+    "nome_opera": "Crocifissione (Cimasa del Polittico di Pisa)",
+    "nome_artista": "Masaccio",
+    "anno_opera": "1426",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo Nazionale di Capodimonte, Napoli"
+  },
+  {
+    "numero_immagine": 53,
+    "nome_opera": "Storie di San Giovanni Battista (Banchetto di Erode e Decollazione)",
+    "nome_artista": "Masolino da Panicale",
+    "anno_opera": "1435",
+    "corrente": "Transizione Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Battistero di Castiglione Olona"
+  },
+  {
+    "numero_immagine": 54,
+    "nome_opera": "Confronto sul tema del tremore: San Martino e il povero vs Battesimo dei Neofiti",
+    "nome_artista": "Maestro Gotico / Masaccio",
+    "anno_opera": "Inizio XV Secolo / 1424-1428",
+    "corrente": "Gotico / Primo Rinascimento",
+    "luogo_esposizione": "Confronto didattico"
+  },
+  {
+    "numero_immagine": 55,
+    "nome_opera": "Ricostruzione e terminali di Crocifisso dipinto (Vergine e San Giovanni dolenti)",
+    "nome_artista": "Maestro del Primo Rinascimento",
+    "anno_opera": "Prima metà del XV secolo",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Confronto didattico"
+  },
+  {
+    "numero_immagine": 56,
+    "nome_opera": "Confronto Madonne: Sant'Anna Metterza vs Madonna col Bambino",
+    "nome_artista": "Masaccio e Masolino (sinistra) / Masolino (destra)",
+    "anno_opera": "1424-1425 / 1423-1424 circa",
+    "corrente": "Transizione / Primo Rinascimento",
+    "luogo_esposizione": "Uffizi, Firenze / Alte Pinakothek, Monaco di Baviera"
+  },
+  {
+    "numero_immagine": 57,
+    "nome_opera": "Imposizione del nome a San Giovanni Battista (Predella)",
+    "nome_artista": "Fra Angelico",
+    "anno_opera": "1438-1440",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo di San Marco, Firenze"
+  },
+  {
+    "numero_immagine": 58,
+    "nome_opera": "Pala di San Marco (Madonna col Bambino e Santi)",
+    "nome_artista": "Fra Angelico",
+    "anno_opera": "1438-1440",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo di San Marco, Firenze"
+  },
+  {
+    "numero_immagine": 59,
+    "nome_opera": "Convento di San Marco: Annunciazioni, Chiostro e Biblioteca",
+    "nome_artista": "Fra Angelico (affreschi) / Michelozzo (architettura)",
+    "anno_opera": "1436-1445",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Convento di San Marco, Firenze"
+  },
+  {
+    "numero_immagine": 60,
+    "nome_opera": "Monumento equestre a Giovanni Acuto (John Hawkwood)",
+    "nome_artista": "Paolo Uccello",
+    "anno_opera": "1436",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cattedrale di Santa Maria del Fiore, Firenze"
+  }
+]
