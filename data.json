@@ -478,5 +478,885 @@
     "anno_opera": "1436",
     "corrente": "Primo Rinascimento",
     "luogo_esposizione": "Cattedrale di Santa Maria del Fiore, Firenze"
+  },
+  {
+    "numero_immagine": 61,
+    "nome_opera": "Monumento equestre a Niccolò da Tolentino",
+    "nome_artista": "Andrea del Castagno",
+    "anno_opera": "1456",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cattedrale di Santa Maria del Fiore, Firenze"
+  },
+  {
+    "numero_immagine": 62,
+    "nome_opera": "Trittico della Battaglia di San Romano",
+    "nome_artista": "Paolo Uccello",
+    "anno_opera": "1438-1440 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Uffizi, Firenze / National Gallery, Londra / Louvre, Parigi"
+  },
+  {
+    "numero_immagine": 63,
+    "nome_opera": "Madonna dell'Umiltà (Madonna Trivulzio)",
+    "nome_artista": "Fra Filippo Lippi",
+    "anno_opera": "1429-1432 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Pinacoteca del Castello Sforzesco, Milano"
+  },
+  {
+    "numero_immagine": 64,
+    "nome_opera": "Confronto Cantorie: Luca della Robbia (sinistra) e Donatello (destra)",
+    "nome_artista": "Luca della Robbia / Donatello",
+    "anno_opera": "1431-1438 (Della Robbia) / 1433-1439 (Donatello)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 65,
+    "nome_opera": "Suonatori di tromba (Dettaglio della Cantoria)",
+    "nome_artista": "Luca della Robbia",
+    "anno_opera": "1431-1438",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 66,
+    "nome_opera": "Putti danzanti / Spiritelli (in bronzo)",
+    "nome_artista": "Donatello",
+    "anno_opera": "1430-1440 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Musée Jacquemart-André, Parigi (Attribuzione dibattuta/collezione d'arte)"
+  },
+  {
+    "numero_immagine": 67,
+    "nome_opera": "David (in bronzo)",
+    "nome_artista": "Donatello",
+    "anno_opera": "1440 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo Nazionale del Bargello, Firenze"
+  },
+  {
+    "numero_immagine": 68,
+    "nome_opera": "Putti danzanti (Dettaglio della Cantoria)",
+    "nome_artista": "Donatello",
+    "anno_opera": "1433-1439",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo dell'Opera del Duomo, Firenze"
+  },
+  {
+    "numero_immagine": 69,
+    "nome_opera": "Palazzo Medici Riccardi e Sagrestia Vecchia (San Lorenzo)",
+    "nome_artista": "Michelozzo (Palazzo) / Brunelleschi e Donatello (Sagrestia)",
+    "anno_opera": "1444-1484 (Palazzo) / 1421-1428 (Sagrestia)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Firenze"
+  },
+  {
+    "numero_immagine": 70,
+    "nome_opera": "Decorazioni Sagrestia Vecchia (Porta bronzea e Resurrezione di Drusiana)",
+    "nome_artista": "Donatello",
+    "anno_opera": "1428-1443 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Lorenzo, Firenze"
+  },
+  {
+    "numero_immagine": 71,
+    "nome_opera": "Tabernacolo di Peretola (Tabernacolo del Sacramento)",
+    "nome_artista": "Luca della Robbia",
+    "anno_opera": "1441-1443",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Chiesa di Santa Maria a Peretola, Firenze (e Museo del Bargello)"
+  },
+  {
+    "numero_immagine": 72,
+    "nome_opera": "Cappella Pazzi (Esterno e Interno)",
+    "nome_artista": "Filippo Brunelleschi (e continuatori)",
+    "anno_opera": "Dal 1443 (completata negli anni '60 del '400)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Chiostro di Santa Croce, Firenze"
+  },
+  {
+    "numero_immagine": 73,
+    "nome_opera": "Resurrezione (Lunetta della Sagrestia delle Messe)",
+    "nome_artista": "Luca della Robbia",
+    "anno_opera": "1442-1445",
+    "corrente": "Primo Rinascimento (Terracotta invetriata)",
+    "luogo_esposizione": "Cattedrale di Santa Maria del Fiore (Duomo), Firenze"
+  },
+  {
+    "numero_immagine": 74,
+    "nome_opera": "Raccolta: Visitazione, Angeli reggicandelabro e Madonne col Bambino",
+    "nome_artista": "Luca della Robbia",
+    "anno_opera": "Metà del XV Secolo",
+    "corrente": "Primo Rinascimento (Terracotta invetriata)",
+    "luogo_esposizione": "S. Giovanni Fuorcivitas (Pistoia), Duomo di Firenze, Bargello"
+  },
+  {
+    "numero_immagine": 75,
+    "nome_opera": "Lunetta con Madonna col Bambino, Angeli e Santi",
+    "nome_artista": "Luca della Robbia (bottega)",
+    "anno_opera": "Metà del XV Secolo",
+    "corrente": "Primo Rinascimento (Terracotta invetriata)",
+    "luogo_esposizione": "Firenze / Museo Nazionale del Bargello"
+  },
+  {
+    "numero_immagine": 76,
+    "nome_opera": "Confronto volumi: Madonna di Tarquinia e Putto col tamburello",
+    "nome_artista": "Filippo Lippi (sinistra) / Donatello (destra)",
+    "anno_opera": "1437 (Lippi) / 1430 circa (Donatello)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria Nazionale d'Arte Antica, Roma / Musei statali, Berlino"
+  },
+  {
+    "numero_immagine": 77,
+    "nome_opera": "Confronto interni: Madonna di Tarquinia vs Ritratto dei coniugi Arnolfini",
+    "nome_artista": "Filippo Lippi (sinistra) / Jan van Eyck (destra)",
+    "anno_opera": "1437 / 1434",
+    "corrente": "Rinascimento Italiano / Rinascimento Fiammingo",
+    "luogo_esposizione": "Galleria Nazionale, Roma / National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 78,
+    "nome_opera": "Confronto ritratti: Leonello d'Este vs Uomo col turbante rosso",
+    "nome_artista": "Pisanello (sinistra) / Jan van Eyck (destra)",
+    "anno_opera": "1441 / 1433",
+    "corrente": "Gotico Internazionale / Rinascimento Fiammingo",
+    "luogo_esposizione": "Accademia Carrara, Bergamo / National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 79,
+    "nome_opera": "Polittico dell'Agnello Mistico (Trittico chiuso) e dettaglio di Adamo",
+    "nome_artista": "Hubert e Jan van Eyck",
+    "anno_opera": "1426-1432",
+    "corrente": "Rinascimento Fiammingo",
+    "luogo_esposizione": "Cattedrale di San Bavone, Gand (Belgio)"
+  },
+  {
+    "numero_immagine": 80,
+    "nome_opera": "Polittico dell'Agnello Mistico (Trittico aperto)",
+    "nome_artista": "Hubert e Jan van Eyck",
+    "anno_opera": "1426-1432",
+    "corrente": "Rinascimento Fiammingo",
+    "luogo_esposizione": "Cattedrale di San Bavone, Gand (Belgio)"
+  },
+  {
+    "numero_immagine": 81,
+    "nome_opera": "Madonna del Cancelliere Rolin (con dettaglio del paesaggio)",
+    "nome_artista": "Jan van Eyck",
+    "anno_opera": "1435 circa",
+    "corrente": "Rinascimento Fiammingo",
+    "luogo_esposizione": "Museo del Louvre, Parigi"
+  },
+  {
+    "numero_immagine": 82,
+    "nome_opera": "Deposizione dalla croce",
+    "nome_artista": "Rogier van der Weyden",
+    "anno_opera": "1435-1440 circa",
+    "corrente": "Rinascimento Fiammingo",
+    "luogo_esposizione": "Museo del Prado, Madrid"
+  },
+  {
+    "numero_immagine": 83,
+    "nome_opera": "Confronto Compianto/Sepoltura: Fiandre vs Italia",
+    "nome_artista": "Rogier van der Weyden (sinistra) / Fra Angelico (destra)",
+    "anno_opera": "1450 circa / 1438-1440",
+    "corrente": "Rinascimento Fiammingo / Primo Rinascimento Italiano",
+    "luogo_esposizione": "Uffizi, Firenze / Museo di San Marco (e Alte Pinakothek)"
+  },
+  {
+    "numero_immagine": 84,
+    "nome_opera": "Guarigione del diacono Giustiniano (Predella Pala di San Marco)",
+    "nome_artista": "Fra Angelico",
+    "anno_opera": "1438-1440",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo di San Marco, Firenze"
+  },
+  {
+    "numero_immagine": 85,
+    "nome_opera": "Storie di Santo Stefano e San Lorenzo (Cappella Niccolina)",
+    "nome_artista": "Fra Angelico",
+    "anno_opera": "1447-1448",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Palazzi Vaticani, Roma"
+  },
+  {
+    "numero_immagine": 86,
+    "nome_opera": "Annunciazione (Predella della Pala di Santa Lucia de' Magnoli)",
+    "nome_artista": "Domenico Veneziano",
+    "anno_opera": "1445-1447",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Fitzwilliam Museum, Cambridge"
+  },
+  {
+    "numero_immagine": 87,
+    "nome_opera": "Pala di Santa Lucia de' Magnoli (con ricostruzione della predella)",
+    "nome_artista": "Domenico Veneziano",
+    "anno_opera": "1445-1447",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze (Pala) / Vari Musei (Predella)"
+  },
+  {
+    "numero_immagine": 88,
+    "nome_opera": "Ultima Cena e Storie della Passione",
+    "nome_artista": "Andrea del Castagno",
+    "anno_opera": "1445-1450",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cenacolo di Sant'Apollonia, Firenze"
+  },
+  {
+    "numero_immagine": 89,
+    "nome_opera": "Uomini e Donne Illustri: Dante Alighieri e la Sibilla Cumana",
+    "nome_artista": "Andrea del Castagno",
+    "anno_opera": "1450 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze (già Villa Carducci, Legnaia)"
+  },
+  {
+    "numero_immagine": 90,
+    "nome_opera": "Confronto Monumenti Equestri: Niccolò da Tolentino vs Giovanni Acuto",
+    "nome_artista": "Andrea del Castagno (sinistra) / Paolo Uccello (destra)",
+    "anno_opera": "1456 (Castagno) / 1436 (Uccello)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Cattedrale di Santa Maria del Fiore, Firenze"
+  },
+  {
+    "numero_immagine": 91,
+    "nome_opera": "Adorazione dei Magi (Tondo)",
+    "nome_artista": "Domenico Veneziano",
+    "anno_opera": "1439-1441 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Gemäldegalerie, Berlino"
+  },
+  {
+    "numero_immagine": 92,
+    "nome_opera": "Polittico della Misericordia",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1445-1462",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo Civico, Sansepolcro"
+  },
+  {
+    "numero_immagine": 93,
+    "nome_opera": "Battesimo di Cristo (nel contesto originale del Polittico)",
+    "nome_artista": "Piero della Francesca (centro) / Matteo di Giovanni (lati)",
+    "anno_opera": "1440-1450 circa (Battesimo)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "National Gallery, Londra (Battesimo) / Sansepolcro (Resto del Polittico)"
+  },
+  {
+    "numero_immagine": 94,
+    "nome_opera": "Placchetta con Autoritratto",
+    "nome_artista": "Leon Battista Alberti",
+    "anno_opera": "1435 circa",
+    "corrente": "Primo Rinascimento (Medaglistica)",
+    "luogo_esposizione": "National Gallery of Art, Washington (e altre collezioni)"
+  },
+  {
+    "numero_immagine": 95,
+    "nome_opera": "Confronto: Progetto del Tempio Malatestiano vs Pantheon",
+    "nome_artista": "Matteo de' Pasti su dis. di Alberti (medaglia) / Antichi Romani",
+    "anno_opera": "1450 (Medaglia) / II Secolo d.C. (Pantheon)",
+    "corrente": "Primo Rinascimento / Arte Romana",
+    "luogo_esposizione": "Rimini (Progetto) / Roma (Pantheon)"
+  },
+  {
+    "numero_immagine": 96,
+    "nome_opera": "Tempio Malatestiano (Esterno e Interno)",
+    "nome_artista": "Leon Battista Alberti (esterno) / Matteo de' Pasti (interno)",
+    "anno_opera": "Dal 1450",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Rimini"
+  },
+  {
+    "numero_immagine": 97,
+    "nome_opera": "Diana su carro (Rilievo della Cappella dei Pianeti)",
+    "nome_artista": "Agostino di Duccio",
+    "anno_opera": "1450-1457 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Tempio Malatestiano, Rimini"
+  },
+  {
+    "numero_immagine": 98,
+    "nome_opera": "Putti musicanti e danzanti su sfondo azzurro (Rilievo)",
+    "nome_artista": "Agostino di Duccio",
+    "anno_opera": "1450-1457 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Tempio Malatestiano, Rimini"
+  },
+  {
+    "numero_immagine": 99,
+    "nome_opera": "Sigismondo Pandolfo Malatesta in preghiera davanti a San Sigismondo",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1451",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Tempio Malatestiano, Rimini"
+  },
+  {
+    "numero_immagine": 100,
+    "nome_opera": "Confronto Castel Sismondo: Medaglia vs Affresco",
+    "nome_artista": "Matteo de' Pasti (medaglia) / Piero della Francesca (affresco)",
+    "anno_opera": "1446 (Medaglia) / 1451 (Affresco)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Tempio Malatestiano, Rimini (Affresco)"
+  },
+  {
+    "numero_immagine": 101,
+    "nome_opera": "Confronto Ritratto di Sigismondo Pandolfo Malatesta: Medaglia vs Dipinto",
+    "nome_artista": "Matteo de' Pasti (medaglia) / Piero della Francesca (dipinto)",
+    "anno_opera": "1446 (Medaglia) / 1451 (Dipinto)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Museo del Louvre, Parigi (Dipinto)"
+  },
+  {
+    "numero_immagine": 102,
+    "nome_opera": "Storie della Vera Croce (Vedute della Cappella Bacci e Morte di Adamo)",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1452-1466",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Francesco, Arezzo"
+  },
+  {
+    "numero_immagine": 103,
+    "nome_opera": "Adorazione del Sacro Legno e Incontro di Salomone con la Regina di Saba",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1452-1466",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Francesco, Arezzo"
+  },
+  {
+    "numero_immagine": 104,
+    "nome_opera": "Flagellazione di Cristo",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1453-1460 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria Nazionale delle Marche, Urbino"
+  },
+  {
+    "numero_immagine": 105,
+    "nome_opera": "Il Sogno di Costantino e La Vittoria di Costantino su Massenzio",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1452-1466",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Francesco, Arezzo"
+  },
+  {
+    "numero_immagine": 106,
+    "nome_opera": "Ritrovamento e Verifica della Vera Croce",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1452-1466",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Francesco, Arezzo"
+  },
+  {
+    "numero_immagine": 107,
+    "nome_opera": "Battaglia di Eraclio e Cosroe",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1452-1466",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Basilica di San Francesco, Arezzo"
+  },
+  {
+    "numero_immagine": 108,
+    "nome_opera": "Doppio ritratto dei Duchi di Urbino (Federico da Montefeltro e Battista Sforza)",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1465-1472 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 109,
+    "nome_opera": "Trionfi di Federico da Montefeltro e Battista Sforza (Verso dei ritratti)",
+    "nome_artista": "Piero della Francesca",
+    "anno_opera": "1465-1472 circa",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 110,
+    "nome_opera": "Pala di Brera (Pala di Montefeltro) e contesto Urbinese (Palazzo Ducale)",
+    "nome_artista": "Piero della Francesca (pittura) / Laurana (architettura)",
+    "anno_opera": "1472-1474 (Pala)",
+    "corrente": "Primo Rinascimento",
+    "luogo_esposizione": "Pinacoteca di Brera, Milano / Urbino"
+  },
+  {
+    "numero_immagine": 111,
+    "nome_opera": "San Sebastiano",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1480 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Museo del Louvre, Parigi"
+  },
+  {
+    "numero_immagine": 112,
+    "nome_opera": "Orazione nell'orto",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1455-1459 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 113,
+    "nome_opera": "Orazione nell'orto",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1459-1465 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 114,
+    "nome_opera": "Cristo in scorto (Cristo morto)",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1475-1480 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Pinacoteca di Brera, Milano"
+  },
+  {
+    "numero_immagine": 115,
+    "nome_opera": "Oculo della volta (Camera Picta o degli Sposi)",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1465-1474",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Castello di San Giorgio (Palazzo Ducale), Mantova"
+  },
+  {
+    "numero_immagine": 116,
+    "nome_opera": "La Corte (Camera Picta o degli Sposi)",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1465-1474",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Castello di San Giorgio (Palazzo Ducale), Mantova"
+  },
+  {
+    "numero_immagine": 117,
+    "nome_opera": "L'Incontro (Camera Picta o degli Sposi)",
+    "nome_artista": "Andrea Mantegna",
+    "anno_opera": "1465-1474",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Castello di San Giorgio (Palazzo Ducale), Mantova"
+  },
+  {
+    "numero_immagine": 118,
+    "nome_opera": "Pietà (Cristo morto sostenuto da tre angeli)",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1475 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Museo Correr, Venezia"
+  },
+  {
+    "numero_immagine": 119,
+    "nome_opera": "San Girolamo nello studio",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1474-1475",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 120,
+    "nome_opera": "Vergine Annunciata",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1476",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria Regionale di Palazzo Abatellis, Palermo"
+  },
+  {
+    "numero_immagine": 121,
+    "nome_opera": "Ritratto d'uomo (Ritratto virile)",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1475 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 122,
+    "nome_opera": "Salvator Mundi",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1465 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 123,
+    "nome_opera": "Pala di San Cassiano (Frammenti ricomposti)",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1475-1476",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Kunsthistorisches Museum, Vienna"
+  },
+  {
+    "numero_immagine": 124,
+    "nome_opera": "Pietà (Cristo morto sorretto da Maria e Giovanni)",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1460 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Pinacoteca di Brera, Milano"
+  },
+  {
+    "numero_immagine": 125,
+    "nome_opera": "Pala di Pesaro (Incoronazione della Vergine)",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1471-1483 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Musei Civici, Pesaro"
+  },
+  {
+    "numero_immagine": 126,
+    "nome_opera": "Pala di San Giobbe",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1487 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 127,
+    "nome_opera": "Trittico dei Frari",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1488",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Basilica di Santa Maria Gloriosa dei Frari, Venezia"
+  },
+  {
+    "numero_immagine": 128,
+    "nome_opera": "Pala di San Zaccaria",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1505",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Chiesa di San Zaccaria, Venezia"
+  },
+  {
+    "numero_immagine": 129,
+    "nome_opera": "Battesimo di Cristo",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1500-1502",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Chiesa di Santa Corona, Vicenza"
+  },
+  {
+    "numero_immagine": 130,
+    "nome_opera": "Trasfigurazione di Cristo",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1478-1479 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Museo di Capodimonte, Napoli"
+  },
+  {
+    "numero_immagine": 131,
+    "nome_opera": "Polittico di San Vincenzo Ferrer",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1464-1468 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Basilica di Santi Giovanni e Paolo (San Zanipolo), Venezia"
+  },
+  {
+    "numero_immagine": 132,
+    "nome_opera": "San Sebastiano",
+    "nome_artista": "Antonello da Messina",
+    "anno_opera": "1478 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Gemäldegalerie Alte Meister, Dresda"
+  },
+  {
+    "numero_immagine": 133,
+    "nome_opera": "Ritratto del doge Leonardo Loredan",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1501-1502 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "National Gallery, Londra"
+  },
+  {
+    "numero_immagine": 134,
+    "nome_opera": "Sacra Conversazione (Madonna col Bambino tra le Sante Caterina e Maria Maddalena)",
+    "nome_artista": "Giovanni Bellini",
+    "anno_opera": "1490 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 135,
+    "nome_opera": "Ritratto del doge Giovanni Mocenigo",
+    "nome_artista": "Gentile Bellini",
+    "anno_opera": "1478-1485",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Museo Correr, Venezia"
+  },
+  {
+    "numero_immagine": 136,
+    "nome_opera": "Processione in piazza San Marco",
+    "nome_artista": "Gentile Bellini",
+    "anno_opera": "1496",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 137,
+    "nome_opera": "Miracolo della Croce caduta nel canale di San Lorenzo",
+    "nome_artista": "Gentile Bellini",
+    "anno_opera": "1500",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 138,
+    "nome_opera": "Predica di San Marco ad Alessandria d'Egitto",
+    "nome_artista": "Gentile e Giovanni Bellini",
+    "anno_opera": "1504-1507",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Pinacoteca di Brera, Milano"
+  },
+  {
+    "numero_immagine": 139,
+    "nome_opera": "Arrivo degli ambasciatori inglesi (dalle Storie di Sant'Orsola)",
+    "nome_artista": "Vittore Carpaccio",
+    "anno_opera": "1495-1500 circa",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 140,
+    "nome_opera": "Visione di Sant'Agostino (Sant'Agostino nello studio)",
+    "nome_artista": "Vittore Carpaccio",
+    "anno_opera": "1502",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Scuola di San Giorgio degli Schiavoni, Venezia"
+  },
+  {
+    "numero_immagine": 141,
+    "nome_opera": "Sogno di Sant'Orsola (dalle Storie di Sant'Orsola)",
+    "nome_artista": "Vittore Carpaccio",
+    "anno_opera": "1495",
+    "corrente": "Rinascimento Veneziano (Telero)",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 142,
+    "nome_opera": "Due dame veneziane (Spesso noto come Le Cortigiane)",
+    "nome_artista": "Vittore Carpaccio",
+    "anno_opera": "1490-1495 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Museo Correr, Venezia"
+  },
+  {
+    "numero_immagine": 143,
+    "nome_opera": "Consegna delle chiavi a San Pietro",
+    "nome_artista": "Pietro Perugino",
+    "anno_opera": "1481-1482",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Cappella Sistina, Vaticano"
+  },
+  {
+    "numero_immagine": 144,
+    "nome_opera": "Vocazione di Pietro e Andrea (Vocazione dei primi apostoli)",
+    "nome_artista": "Domenico Ghirlandaio",
+    "anno_opera": "1481-1482",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Cappella Sistina, Vaticano"
+  },
+  {
+    "numero_immagine": 145,
+    "nome_opera": "Testamento e morte di Mosè",
+    "nome_artista": "Luca Signorelli e Bartolomeo della Gatta",
+    "anno_opera": "1482",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Cappella Sistina, Vaticano"
+  },
+  {
+    "numero_immagine": 146,
+    "nome_opera": "Punizione dei ribelli (Punizione di Cora, Datan e Abiram)",
+    "nome_artista": "Sandro Botticelli",
+    "anno_opera": "1481-1482",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Cappella Sistina, Vaticano"
+  },
+  {
+    "numero_immagine": 147,
+    "nome_opera": "Adorazione dei Magi (Adorazione Del Lama)",
+    "nome_artista": "Sandro Botticelli",
+    "anno_opera": "1475 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 148,
+    "nome_opera": "La Primavera",
+    "nome_artista": "Sandro Botticelli",
+    "anno_opera": "1480-1482 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 149,
+    "nome_opera": "Nascita di Venere",
+    "nome_artista": "Sandro Botticelli",
+    "anno_opera": "1485-1486 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 150,
+    "nome_opera": "Battesimo di Cristo",
+    "nome_artista": "Andrea del Verrocchio e Leonardo da Vinci",
+    "anno_opera": "1475-1478",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 151,
+    "nome_opera": "Annunciazione",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1472-1475 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 152,
+    "nome_opera": "Ritratto di Ginevra de' Benci",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1474-1478 circa",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "National Gallery of Art, Washington"
+  },
+  {
+    "numero_immagine": 153,
+    "nome_opera": "Adorazione dei Magi",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1481-1482",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 154,
+    "nome_opera": "La Vergine delle Rocce (Prima versione)",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1483-1486",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Museo del Louvre, Parigi"
+  },
+  {
+    "numero_immagine": 155,
+    "nome_opera": "Dama con l'ermellino (sinistra) e La Belle Ferronnière (destra)",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1489-1490 / 1490-1495",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Museo Nazionale, Cracovia / Louvre, Parigi"
+  },
+  {
+    "numero_immagine": 156,
+    "nome_opera": "Ultima Cena (Cenacolo Vinciano)",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1494-1498",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Refettorio di Santa Maria delle Grazie, Milano"
+  },
+  {
+    "numero_immagine": 157,
+    "nome_opera": "Studi per chiese a pianta centrale",
+    "nome_artista": "Leonardo da Vinci",
+    "anno_opera": "1487-1490 circa",
+    "corrente": "Rinascimento (Disegni)",
+    "luogo_esposizione": "Institut de France (Manoscritto B), Parigi"
+  },
+  {
+    "numero_immagine": 158,
+    "nome_opera": "Finto coro prospettico",
+    "nome_artista": "Donato Bramante",
+    "anno_opera": "1482-1486",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Chiesa di Santa Maria presso San Satiro, Milano"
+  },
+  {
+    "numero_immagine": 159,
+    "nome_opera": "Tempietto di San Pietro in Montorio",
+    "nome_artista": "Donato Bramante",
+    "anno_opera": "1502-1509",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Complesso di San Pietro in Montorio, Roma"
+  },
+  {
+    "numero_immagine": 160,
+    "nome_opera": "Pietà",
+    "nome_artista": "Michelangelo Buonarroti",
+    "anno_opera": "1497-1499",
+    "corrente": "Rinascimento",
+    "luogo_esposizione": "Basilica di San Pietro, Vaticano"
+  },
+  {
+    "numero_immagine": 161,
+    "nome_opera": "David",
+    "nome_artista": "Michelangelo Buonarroti",
+    "anno_opera": "1501-1504",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Galleria dell'Accademia, Firenze"
+  },
+  {
+    "numero_immagine": 162,
+    "nome_opera": "Sacra Famiglia (Tondo Doni)",
+    "nome_artista": "Michelangelo Buonarroti",
+    "anno_opera": "1503-1504 circa",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Galleria degli Uffizi, Firenze"
+  },
+  {
+    "numero_immagine": 163,
+    "nome_opera": "Tempietto di San Pietro in Montorio (Pianta e Sezione)",
+    "nome_artista": "Donato Bramante",
+    "anno_opera": "1502-1509",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Complesso di San Pietro in Montorio, Roma"
+  },
+  {
+    "numero_immagine": 164,
+    "nome_opera": "Scuola di Atene",
+    "nome_artista": "Raffaello Sanzio",
+    "anno_opera": "1509-1511",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Stanze Vaticane (Stanza della Segnatura), Vaticano"
+  },
+  {
+    "numero_immagine": 165,
+    "nome_opera": "Liberazione di San Pietro dal carcere",
+    "nome_artista": "Raffaello Sanzio",
+    "anno_opera": "1513-1514",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Stanze Vaticane (Stanza di Eliodoro), Vaticano"
+  },
+  {
+    "numero_immagine": 166,
+    "nome_opera": "Ritratti di Agnolo Doni e Maddalena Strozzi",
+    "nome_artista": "Raffaello Sanzio",
+    "anno_opera": "1506 circa",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Gallerie degli Uffizi (Palazzo Pitti), Firenze"
+  },
+  {
+    "numero_immagine": 167,
+    "nome_opera": "Confronto Madonne: del Prato, del Cardellino e La Belle Jardinière",
+    "nome_artista": "Raffaello Sanzio",
+    "anno_opera": "1506-1508",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Vienna / Firenze / Parigi"
+  },
+  {
+    "numero_immagine": 168,
+    "nome_opera": "Deposizione Borghese (Pala Baglioni)",
+    "nome_artista": "Raffaello Sanzio",
+    "anno_opera": "1507",
+    "corrente": "Rinascimento Maturo",
+    "luogo_esposizione": "Galleria Borghese, Roma"
+  },
+  {
+    "numero_immagine": 169,
+    "nome_opera": "La Tempesta",
+    "nome_artista": "Giorgione",
+    "anno_opera": "1502-1503 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Gallerie dell'Accademia, Venezia"
+  },
+  {
+    "numero_immagine": 170,
+    "nome_opera": "Pala di Castelfranco",
+    "nome_artista": "Giorgione",
+    "anno_opera": "1503-1504 circa",
+    "corrente": "Rinascimento Veneziano",
+    "luogo_esposizione": "Duomo di Castelfranco Veneto"
   }
 ]
